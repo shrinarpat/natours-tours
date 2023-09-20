@@ -1,0 +1,6 @@
+.arrow-right-animated {
+  display: inline-block;
+  animation: moveInRightSmall 1s infinite;
+  text-shadow: 0 2px 5px rgba($color-black, 0.2);
+  backface-visibility: hidden;
+}
